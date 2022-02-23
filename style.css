@@ -1,0 +1,57 @@
+
+.users-reviews-section{
+    display: flex;
+    margin-top: 80px;
+    border:1px solid gainsboro;
+}
+.review-header{
+    text-align: center;
+}
+.review-text{
+    text-align: center;
+    font-size: 15px;
+}
+.review-img-section{
+    
+    width:50%;
+    height:400px;
+}
+.reviewer-section{
+    width:50%; 
+   margin-top: -25px;
+    
+}
+.reviewer-img{
+    height:400px;
+}
+.reviews{
+    width:80%;
+    
+    height:400px;
+}
+.reviewer-name{
+    display: flex;
+    justify-content: space-between;
+}
+.reviewer-info{
+margin-top: -20px;
+}
+
+.quote-img{
+    margin-top: 25px; 
+}
+.reviewers-img-section{
+    display: flex;
+    margin-left: 300px;
+}
+.reviewers-img{
+    margin-left: 8px;
+}
+.arrow-img-section{
+    display: flex;
+    margin-left: 430px;
+    margin-top: 10px;
+}
+.arrow-img{
+    margin-left: 8px;
+}
